@@ -1,2 +1,2 @@
 # Ex6
-Eviatar Levi & Reuven Starodubski
+ashwaq & athar & ahmad
