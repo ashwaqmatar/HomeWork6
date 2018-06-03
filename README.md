@@ -1,1 +1,2 @@
-# ex6
+# Ex6
+Eviatar Levi & Reuven Starodubski
